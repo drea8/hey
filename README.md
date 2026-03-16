@@ -1,2 +1,3 @@
 # hey
-Mikhail Tsetlin's "Hey!" actor coord problem for low-vocabulary hunter-gatherer simulations
+multi actor pathfinding and resource gathering sim 
+from Mikhail Tsetlin's "Hey!" mushroom gathering problem
